@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kapetan/level-indexed#readme",
   "dependencies": {
-    "indexeddown": "^1.1.0",
+    "indexeddown": "^1.2.0",
     "level-packager": "^2.1.1"
   },
   "devDependencies": {
