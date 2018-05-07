@@ -1,6 +1,6 @@
 {
   "name": "level-indexed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A convenience package bundling levelup and indexeddown",
   "main": "index.js",
   "scripts": {
